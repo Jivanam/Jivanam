@@ -7,9 +7,9 @@ I am Shason. I am a Software Developer currently based in U.K.
 [![Linkedin Badge](https://img.shields.io/badge/-shason-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shason/)](https://www.linkedin.com/in/shason/) 
 [![Gmail Badge](https://img.shields.io/badge/-shasondev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shasondeva32@gmail.com)](mailto:shasondeva32@gmail.com)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Jivanam&theme=onedark&border_radius=25&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Jivanam&border_radius=25&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jivanam&theme=onedark&border_radius=25&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jivanam&border_radius=25&size_weight=0.5&count_weight=0.5)
 
 
 ### Languages and Tools
