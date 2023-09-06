@@ -12,7 +12,7 @@ I am a Software Developer currently based in U.K.
 
 #### Currently working on
 
-- [Jivanam/eq-castration](https://github.com/Jivanam/eq-castration) -  (today)
+- [Jivanam/eq-castration](https://github.com/Jivanam/eq-castration) -  (1 day ago)
 - [EquineCastration/Equine-Castration](https://github.com/EquineCastration/Equine-Castration) -  (2 weeks ago)
 - [Jivanam/dotfiles](https://github.com/Jivanam/dotfiles) -  (3 weeks ago)
 
