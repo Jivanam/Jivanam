@@ -12,13 +12,13 @@ I am a Software Developer currently based in U.K.
 
 #### Currently working on
 
+- [EquineCastration/Equine-Castration](https://github.com/EquineCastration/Equine-Castration) -  (today)
 - [Jivanam/eq-castration](https://github.com/Jivanam/eq-castration) -  (5 days ago)
-- [EquineCastration/Equine-Castration](https://github.com/EquineCastration/Equine-Castration) -  (5 days ago)
 - [Jivanam/dotfiles](https://github.com/Jivanam/dotfiles) -  (1 month ago)
 
 #### ⭐ Repositories I starred
 
-- [Elfocrash/.NET-Backend-Developer-Roadmap](https://github.com/Elfocrash/.NET-Backend-Developer-Roadmap) - Roadmap for a .NET Backend Developer working with Microservices - 5857 stars
+- [Elfocrash/.NET-Backend-Developer-Roadmap](https://github.com/Elfocrash/.NET-Backend-Developer-Roadmap) - Roadmap for a .NET Backend Developer working with Microservices - 5858 stars
 
 
 
