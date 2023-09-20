@@ -12,8 +12,8 @@ I am a Software Developer currently based in U.K.
 
 #### Currently working on
 
-- [EquineCastration/Equine-Castration](https://github.com/EquineCastration/Equine-Castration) -  (today)
-- [Jivanam/eq-castration](https://github.com/Jivanam/eq-castration) -  (5 days ago)
+- [EquineCastration/Equine-Castration](https://github.com/EquineCastration/Equine-Castration) -  (1 day ago)
+- [Jivanam/eq-castration](https://github.com/Jivanam/eq-castration) -  (6 days ago)
 - [Jivanam/dotfiles](https://github.com/Jivanam/dotfiles) -  (1 month ago)
 
 #### ⭐ Repositories I starred
