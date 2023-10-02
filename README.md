@@ -12,8 +12,8 @@ I am a Software Developer currently based in U.K.
 
 #### Currently working on
 
-- [CoconutRoy/planets](https://github.com/CoconutRoy/planets) - training piece (2 days ago)
-- [EquineCastration/Equine-Castration](https://github.com/EquineCastration/Equine-Castration) -  (6 days ago)
+- [CoconutRoy/planets](https://github.com/CoconutRoy/planets) - training piece (3 days ago)
+- [EquineCastration/Equine-Castration](https://github.com/EquineCastration/Equine-Castration) -  (1 week ago)
 - [Jivanam/dotfiles](https://github.com/Jivanam/dotfiles) -  (1 month ago)
 
 #### ⭐ Repositories I starred
