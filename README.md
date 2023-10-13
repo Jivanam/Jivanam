@@ -12,7 +12,7 @@ I am a Software Developer currently based in U.K.
 
 #### Currently working on
 
-- [CoconutRoy/planets](https://github.com/CoconutRoy/planets) - training piece (1 week ago)
+- [CoconutRoy/planets](https://github.com/CoconutRoy/planets) - training piece (2 weeks ago)
 - [EquineCastration/Equine-Castration](https://github.com/EquineCastration/Equine-Castration) -  (2 weeks ago)
 - [Jivanam/dotfiles](https://github.com/Jivanam/dotfiles) -  (2 months ago)
 
