@@ -1,11 +1,11 @@
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">, I'm Shason!
+##  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Hi there, Shason here.
 
 I am a Software Developer currently based in U.K.
 
 ### Contact
 
 [![Linkedin Badge](https://img.shields.io/badge/-shason-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shason/)](https://www.linkedin.com/in/shason/)
-[![Gmail Badge](https://img.shields.io/badge/-shasondev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shasondev@gmail.com)](mailto:shasondev@gmail.com)
+[![Outlook Badge](https://img.shields.io/badge/-shason.gurung@outlook.com-0072C6?style=flat-square&logo=Microsoft-Outlook&logoColor=white&link=mailto:shason.gurung@outlook.com)](mailto:shason.gurung@outlook.com)
 
 
 ## Activities
@@ -20,9 +20,10 @@ I am a Software Developer currently based in U.K.
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} - {{.Repo.Stargazers}} stars
 {{- end}}
 
-<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=Jivanam&border_radius=25&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+<!-- 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Jivanam&border_radius=25&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jivanam&border_radius=25&size_weight=0.5&count_weight=0.5) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jivanam&border_radius=25&size_weight=0.5&count_weight=0.5)
 
 ### Languages and Tools
 
@@ -61,3 +62,4 @@ I am a Software Developer currently based in U.K.
 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+-->
