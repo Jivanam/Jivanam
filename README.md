@@ -12,7 +12,7 @@ I am a Software Developer currently based in U.K.
 
 #### Currently working on
 
-- [EquineCastration/Equine-Castration](https://github.com/EquineCastration/Equine-Castration) -  (today)
+- [EquineCastration/Equine-Castration](https://github.com/EquineCastration/Equine-Castration) -  (1 day ago)
 - [Jivanam/dotfiles](https://github.com/Jivanam/dotfiles) -  (2 weeks ago)
 - [HDRUK/hutch](https://github.com/HDRUK/hutch) - 📤🐇Hutch monorepo🚝 (4 months ago)
 
