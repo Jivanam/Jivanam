@@ -14,6 +14,7 @@ I am a Software Developer currently based in U.K.
 
 - [EquineCastration/Equine-Castration](https://github.com/EquineCastration/Equine-Castration) -  (1 month ago)
 - [Jivanam/dotfiles](https://github.com/Jivanam/dotfiles) -  (1 month ago)
+- [Health-Informatics-UoN/hutch](https://github.com/Health-Informatics-UoN/hutch) - A TRE-FX Workflow Executor Agent for Federated Analytics (6 months ago)
 
 #### ⭐ Repositories I starred
 
