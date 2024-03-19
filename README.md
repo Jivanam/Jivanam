@@ -9,4 +9,4 @@ I am a Software Developer currently based in U.K.
 
 ## Activities
 
-_Last Updated on 2024-03-18_
+_Last Updated on 2024-03-19_
