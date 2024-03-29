@@ -1,0 +1,43 @@
+# Workflow to update README daily
+
+name: Daily Update README
+
+on:
+  push:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@master
+
+      - name: Pull latest changes
+        run: git pull origin main
+
+      - name: Replace placeholder with current date
+        run: |
+          current_date=$(date +"%d %B %Y")
+          sed "s/{{CURRENT_TIME}}/$current_date/g" templates/README.md.tpl > templates/README.md.tpl.tmp
+
+      - uses: muesli/readme-scribe@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+        with:
+          template: "templates/README.md.tpl.tmp"
+          writeTo: "README.md"
+
+      - name: Delete temporary file
+        run: rm templates/README.md.tpl.tmp
+
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          commit_message: "[Automatic] 📝 README update"
+          branch: main
+          commit_user_name: Jivanam
+          commit_user_email: dev.s.gurung@outlook.com
+          commit_author: Jivanam <dev.s.gurung@outlook.com>
