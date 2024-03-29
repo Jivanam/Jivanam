@@ -9,4 +9,14 @@ I am a Software Developer currently based in U.K.
 
 ## Activities
 
+#### Currently working on
+{{range recentContributions 3}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+{{- end}}
+
+#### ⭐ Repositories I starred
+{{range recentStars 3}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} - {{.Repo.Stargazers}} stars
+{{- end}}
+
 _Last Updated on {{CURRENT_TIME}}_
