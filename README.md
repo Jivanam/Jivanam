@@ -16,8 +16,8 @@ I am a Software Developer currently based in U.K.
 
 #### ⭐ Repositories I starred
 
-- [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem - 61534 stars
-- [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.  - 22388 stars
-- [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects. - 4734 stars
+- [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem - 61533 stars
+- [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.  - 22389 stars
+- [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects. - 4735 stars
 
-_Last Updated on 30 March 2024 06:04:38_
+_Last Updated on 30 March 2024 07:05:01_
