@@ -11,13 +11,13 @@ I am a Software Developer currently based in U.K.
 
 #### Currently working on
 
-- [EquineCastration/Equine-Castration](https://github.com/EquineCastration/Equine-Castration) -  (1 week ago)
+- [EquineCastration/Equine-Castration](https://github.com/EquineCastration/Equine-Castration) -  (2 weeks ago)
 - [Health-Informatics-UoN/hutch](https://github.com/Health-Informatics-UoN/hutch) - A TRE-FX Workflow Executor Agent for Federated Analytics (8 months ago)
 
 #### ⭐ Repositories I starred
 
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem - 61552 stars
-- [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.  - 22405 stars
+- [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.  - 22406 stars
 - [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects. - 4739 stars
 
-_Last Updated on 31 March 2024 23:04:39_
+_Last Updated on 01 April 2024 00:18:14_
