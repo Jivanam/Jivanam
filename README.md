@@ -18,6 +18,6 @@ I am a Software Developer currently based in U.K.
 
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem - 61989 stars
 - [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.  - 22803 stars
-- [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects. - 4827 stars
+- [Haxxnet/Compose-Examples](https://github.com/Haxxnet/Compose-Examples) - Various Docker Compose examples of selfhosted FOSS and proprietary projects. - 4828 stars
 
-_Last Updated on 01 May 2024 15:04:37_
+_Last Updated on 01 May 2024 16:04:47_
