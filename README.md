@@ -21,4 +21,4 @@ I am a Software Developer currently based in U.K.
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem - 62470 stars
 - [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.  - 24182 stars
 
-_Last Updated on 20 May 2024 00:17:06_
+_Last Updated on 20 May 2024_
