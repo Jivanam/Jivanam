@@ -18,7 +18,7 @@ I am a Software Developer currently based in U.K.
 #### ⭐ Repositories I starred
 
 - [sadmann7/shadcn-table](https://github.com/sadmann7/shadcn-table) - A shadcn table component with server-side sorting, filtering, and pagination. - 1921 stars
-- [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem - 62791 stars
-- [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.  - 24973 stars
+- [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem - 62792 stars
+- [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.  - 24976 stars
 
-_Last Updated on 10 June 2024 07:04:33_
+_Last Updated on 10 June 2024 08:06:07_
