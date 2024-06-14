@@ -11,7 +11,7 @@ I am a Software Developer currently based in U.K.
 
 #### Currently working on
 
-- [EquineCastration/Equine-Castration](https://github.com/EquineCastration/Equine-Castration) -  (1 day ago)
+- [EquineCastration/Equine-Castration](https://github.com/EquineCastration/Equine-Castration) -  (2 days ago)
 - [Jivanam/dotfiles](https://github.com/Jivanam/dotfiles) -  (1 month ago)
 - [Health-Informatics-UoN/hutch](https://github.com/Health-Informatics-UoN/hutch) - A TRE-FX Workflow Executor Agent for Federated Analytics (10 months ago)
 
@@ -19,6 +19,6 @@ I am a Software Developer currently based in U.K.
 
 - [sadmann7/shadcn-table](https://github.com/sadmann7/shadcn-table) - A shadcn table component with server-side sorting, filtering, and pagination. - 1952 stars
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem - 62853 stars
-- [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.  - 25112 stars
+- [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.  - 25114 stars
 
-_Last Updated on 13 June 2024 23:05:01_
+_Last Updated on 14 June 2024 00:17:16_
