@@ -11,14 +11,14 @@ I am a Software Developer currently based in U.K.
 
 #### Currently working on
 
-- [Jivanam/Azure-web-app](https://github.com/Jivanam/Azure-web-app) - Sample app as a part of the Developing Solutions for Microsoft Azure course (2 days ago)
-- [EquineCastration/Equine-Castration](https://github.com/EquineCastration/Equine-Castration) -  (4 days ago)
+- [Jivanam/Azure-web-app](https://github.com/Jivanam/Azure-web-app) - Sample app as a part of the Developing Solutions for Microsoft Azure course (3 days ago)
+- [EquineCastration/Equine-Castration](https://github.com/EquineCastration/Equine-Castration) -  (5 days ago)
 - [Jivanam/dotfiles](https://github.com/Jivanam/dotfiles) -  (1 month ago)
 
 #### ⭐ Repositories I starred
 
-- [sadmann7/shadcn-table](https://github.com/sadmann7/shadcn-table) - A shadcn table component with server-side sorting, filtering, and pagination. - 1966 stars
+- [sadmann7/shadcn-table](https://github.com/sadmann7/shadcn-table) - A shadcn table component with server-side sorting, filtering, and pagination. - 1967 stars
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem - 62891 stars
 - [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.  - 25189 stars
 
-_Last Updated on 16 June 2024 23:05:16_
+_Last Updated on 17 June 2024 00:18:23_
