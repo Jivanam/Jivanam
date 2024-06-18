@@ -11,14 +11,14 @@ I am a Software Developer currently based in U.K.
 
 #### Currently working on
 
-- [Jivanam/Azure-web-app](https://github.com/Jivanam/Azure-web-app) - Sample app as a part of the Developing Solutions for Microsoft Azure course (3 days ago)
-- [EquineCastration/Equine-Castration](https://github.com/EquineCastration/Equine-Castration) -  (5 days ago)
+- [Jivanam/Azure-web-app](https://github.com/Jivanam/Azure-web-app) - Sample app as a part of the Developing Solutions for Microsoft Azure course (4 days ago)
+- [EquineCastration/Equine-Castration](https://github.com/EquineCastration/Equine-Castration) -  (6 days ago)
 - [Jivanam/dotfiles](https://github.com/Jivanam/dotfiles) -  (1 month ago)
 
 #### ⭐ Repositories I starred
 
 - [sadmann7/shadcn-table](https://github.com/sadmann7/shadcn-table) - A shadcn table component with server-side sorting, filtering, and pagination. - 1969 stars
-- [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem - 62903 stars
-- [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.  - 25211 stars
+- [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem - 62904 stars
+- [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.  - 25212 stars
 
-_Last Updated on 17 June 2024 23:04:47_
+_Last Updated on 18 June 2024 00:17:46_
