@@ -21,4 +21,4 @@ I am a Software Developer currently based in U.K.
 - [sadmann7/shadcn-table](https://github.com/sadmann7/shadcn-table) - A shadcn table component with server-side sorting, filtering, and pagination. - 1996 stars
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem - 63016 stars
 
-_Last Updated on 23 June 2024 10:04:32_
+_Last Updated on 23 June 2024 11:04:25_
