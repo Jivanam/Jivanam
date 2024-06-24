@@ -17,8 +17,8 @@ I am a Software Developer currently based in U.K.
 
 #### ⭐ Repositories I starred
 
-- [LSXPrime/Octagrm](https://github.com/LSXPrime/Octagrm) - a social media platform built with ASP.NET Core 8 Web API, inspired by Instagram. Octagram provides features like user authentication, post creation, liking, commenting, following, stories, real-time messaging, notifications, and more. - 42 stars
+- [LSXPrime/Octagrm](https://github.com/LSXPrime/Octagrm) - a social media platform built with ASP.NET Core 8 Web API, inspired by Instagram. Octagram provides features like user authentication, post creation, liking, commenting, following, stories, real-time messaging, notifications, and more. - 43 stars
 - [bcms/starters](https://github.com/bcms/starters) - 👩‍💻 Build beautiful, accessible, high-performance websites with BCMS - 247 stars
 - [sadmann7/shadcn-table](https://github.com/sadmann7/shadcn-table) - A shadcn table component with server-side sorting, filtering, and pagination. - 2005 stars
 
-_Last Updated on 24 June 2024 19:04:29_
+_Last Updated on 24 June 2024 20:04:58_
