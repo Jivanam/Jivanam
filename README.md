@@ -12,7 +12,7 @@ I am a Software Developer currently based in U.K.
 #### Currently working on
 
 - [Jivanam/Azure-web-app](https://github.com/Jivanam/Azure-web-app) - Sample app as a part of the Developing Solutions for Microsoft Azure course (1 week ago)
-- [EquineCastration/Equine-Castration](https://github.com/EquineCastration/Equine-Castration) -  (1 week ago)
+- [EquineCastration/Equine-Castration](https://github.com/EquineCastration/Equine-Castration) -  (2 weeks ago)
 - [Jivanam/dotfiles](https://github.com/Jivanam/dotfiles) -  (1 month ago)
 
 #### ⭐ Repositories I starred
@@ -21,4 +21,4 @@ I am a Software Developer currently based in U.K.
 - [bcms/starters](https://github.com/bcms/starters) - 👩‍💻 Build beautiful, accessible, high-performance websites with BCMS - 247 stars
 - [sadmann7/shadcn-table](https://github.com/sadmann7/shadcn-table) - A shadcn table component with server-side sorting, filtering, and pagination. - 2014 stars
 
-_Last Updated on 25 June 2024 23:04:27_
+_Last Updated on 26 June 2024 00:17:13_
