@@ -12,7 +12,7 @@ I am a Software Developer currently based in U.K.
 #### Currently working on
 
 - [EquineCastration/Equine-Castration](https://github.com/EquineCastration/Equine-Castration) -  (2 weeks ago)
-- [Jivanam/Azure-web-app](https://github.com/Jivanam/Azure-web-app) - Sample app as a part of the Developing Solutions for Microsoft Azure course (3 weeks ago)
+- [Jivanam/Azure-web-app](https://github.com/Jivanam/Azure-web-app) - Sample app as a part of the Developing Solutions for Microsoft Azure course (4 weeks ago)
 - [Jivanam/dotfiles](https://github.com/Jivanam/dotfiles) -  (1 month ago)
 
 #### ⭐ Repositories I starred
@@ -21,4 +21,4 @@ I am a Software Developer currently based in U.K.
 - [LSXPrime/Octagrm](https://github.com/LSXPrime/Octagrm) - a social media platform built with ASP.NET Core 8 Web API, inspired by Instagram. Octagram provides features like user authentication, post creation, liking, commenting, following, stories, real-time messaging, notifications, and more. - 55 stars
 - [bcms/starters](https://github.com/bcms/starters) - 👩‍💻 Build beautiful, accessible, high-performance websites with BCMS - 253 stars
 
-_Last Updated on 11 July 2024 23:05:40_
+_Last Updated on 12 July 2024 00:17:47_
