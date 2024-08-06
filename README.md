@@ -17,8 +17,8 @@ I am a Software Developer currently based in U.K.
 
 #### ⭐ Repositories I starred
 
-- [ReactNativeNews/React-Native-Apps](https://github.com/ReactNativeNews/React-Native-Apps) - Curated List of Open Source React Native Apps.  Curation curtesy of - 8946 stars
+- [ReactNativeNews/React-Native-Apps](https://github.com/ReactNativeNews/React-Native-Apps) - Curated List of Open Source React Native Apps.  Curation curtesy of - 8945 stars
 - [LSXPrime/Octagrm](https://github.com/LSXPrime/Octagrm) - a social media platform built with ASP.NET Core 8 Web API, inspired by Instagram. Octagram provides features like user authentication, post creation, liking, commenting, following, stories, real-time messaging, notifications, and more. - 58 stars
 - [bcms/starters](https://github.com/bcms/starters) - 👩‍💻 Build beautiful, accessible, high-performance websites with BCMS - 256 stars
 
-_Last Updated on 06 August 2024 06:06:59_
+_Last Updated on 06 August 2024 07:04:47_
