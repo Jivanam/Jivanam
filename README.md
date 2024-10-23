@@ -11,7 +11,7 @@ I am a Software Developer currently based in U.K.
 
 #### Currently working on
 
-- [Jivanam/dotfiles](https://github.com/Jivanam/dotfiles) -  (today)
+- [Jivanam/dotfiles](https://github.com/Jivanam/dotfiles) -  (1 day ago)
 - [uon-drs/improved-octo-giggle](https://github.com/uon-drs/improved-octo-giggle) - Software/Data science hackathon repo (2 months ago)
 - [EquineCastration/Equine-Castration](https://github.com/EquineCastration/Equine-Castration) -  (3 months ago)
 
@@ -21,4 +21,4 @@ I am a Software Developer currently based in U.K.
 - [LSXPrime/Octagrm](https://github.com/LSXPrime/Octagrm) - a social media platform built with ASP.NET Core 8 Web API, inspired by Instagram. Octagram provides features like user authentication, post creation, liking, commenting, following, stories, real-time messaging, notifications, and more. - 64 stars
 - [bcms/starters](https://github.com/bcms/starters) - 👩‍💻 Build beautiful, accessible, high-performance websites with BCMS - 270 stars
 
-_Last Updated on 22 October 2024 23:04:41_
+_Last Updated on 23 October 2024 00:20:47_
