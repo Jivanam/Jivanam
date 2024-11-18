@@ -12,13 +12,13 @@ I am a Software Developer currently based in U.K.
 #### Currently working on
 
 - [Jivanam/dotfiles](https://github.com/Jivanam/dotfiles) -  (3 weeks ago)
-- [uon-drs/improved-octo-giggle](https://github.com/uon-drs/improved-octo-giggle) - Software/Data science hackathon repo (2 months ago)
+- [uon-drs/improved-octo-giggle](https://github.com/uon-drs/improved-octo-giggle) - Software/Data science hackathon repo (3 months ago)
 - [EquineCastration/Equine-Castration](https://github.com/EquineCastration/Equine-Castration) -  (4 months ago)
 
 #### ⭐ Repositories I starred
 
-- [reisxd/TizenTube](https://github.com/reisxd/TizenTube) - A TizenBrew module to remove ads and add support for SponsorBlock for your Tizen TV. - 562 stars
+- [reisxd/TizenTube](https://github.com/reisxd/TizenTube) - A TizenBrew module to remove ads and add support for SponsorBlock for your Tizen TV. - 563 stars
 - [ReactNativeNews/React-Native-Apps](https://github.com/ReactNativeNews/React-Native-Apps) - Curated List of Open Source React Native Apps.  Curation curtesy of - 9269 stars
 - [LSXPrime/Octagrm](https://github.com/LSXPrime/Octagrm) - a social media platform built with ASP.NET Core 8 Web API, inspired by Instagram. Octagram provides features like user authentication, post creation, liking, commenting, following, stories, real-time messaging, notifications, and more. - 65 stars
 
-_Last Updated on 17 November 2024 23:04:34_
+_Last Updated on 18 November 2024 00:23:05_
