@@ -18,7 +18,7 @@ I am a Software Developer currently based in U.K.
 #### ⭐ Repositories I starred
 
 - [reisxd/TizenTube](https://github.com/reisxd/TizenTube) - A TizenBrew module to remove ads and add support for SponsorBlock for your Tizen TV. - 775 stars
-- [ReactNativeNews/React-Native-Apps](https://github.com/ReactNativeNews/React-Native-Apps) - Curated List of Open Source React Native Apps.  Curation curtesy of - 9739 stars
+- [ReactNativeNews/React-Native-Apps](https://github.com/ReactNativeNews/React-Native-Apps) - Curated List of Open Source React Native Apps.  Curation curtesy of - 9738 stars
 - [LSXPrime/Octagrm](https://github.com/LSXPrime/Octagrm) - a social media platform built with ASP.NET Core 8 Web API, inspired by Instagram. Octagram provides features like user authentication, post creation, liking, commenting, following, stories, real-time messaging, notifications, and more. - 72 stars
 
-_Last Updated on 16 April 2025 13:12:24_
+_Last Updated on 16 April 2025 14:06:03_
