@@ -21,4 +21,4 @@ I am a Software Developer currently based in U.K.
 - [reisxd/TizenTube](https://github.com/reisxd/TizenTube) - A TizenBrew module to remove ads and add support for SponsorBlock for your Tizen TV. - 804 stars
 - [ReactNativeNews/React-Native-Apps](https://github.com/ReactNativeNews/React-Native-Apps) - Curated List of Open Source React Native Apps.  Curation curtesy of - 9799 stars
 
-_Last Updated on 13 May 2025 00:24:06_
+_Last Updated on 13 May 2025_
