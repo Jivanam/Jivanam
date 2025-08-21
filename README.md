@@ -11,7 +11,7 @@ I am a Software Developer currently based in U.K.
 
 #### Currently working on
 
-- [AI4Green/AI4Green4Students](https://github.com/AI4Green/AI4Green4Students) - AI4Green4Students is a pedagogical version of AI4Green, promoting sustainable chemistry practices and research data management. (3 days ago)
+- [AI4Green/AI4Green4Students](https://github.com/AI4Green/AI4Green4Students) - AI4Green4Students is a pedagogical version of AI4Green, promoting sustainable chemistry practices and research data management. (today)
 - [AI4Green/forward-prediction-api](https://github.com/AI4Green/forward-prediction-api) - Forward Prediction API for the AI4Green4Students (6 days ago)
 - [Health-Informatics-UoN/carrot-mapper](https://github.com/Health-Informatics-UoN/carrot-mapper) - Streamlined Data Mapping to OMOP (5 months ago)
 
@@ -21,4 +21,4 @@ I am a Software Developer currently based in U.K.
 - [reisxd/TizenTube](https://github.com/reisxd/TizenTube) - A TizenBrew module to remove ads and add support for SponsorBlock for your Tizen TV. - 994 stars
 - [ReactNativeNews/React-Native-Apps](https://github.com/ReactNativeNews/React-Native-Apps) - Curated List of Open Source React Native Apps.  Curation curtesy of - 10010 stars
 
-_Last Updated on 21 August 2025 08:07:55_
+_Last Updated on 21 August 2025 09:05:58_
